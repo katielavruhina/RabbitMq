@@ -1,0 +1,11 @@
+D:\GitLab\ReceiveLogsDirect\bin\Debug\netcoreapp2.1\ReceiveLogsDirect.deps.json
+D:\GitLab\ReceiveLogsDirect\bin\Debug\netcoreapp2.1\ReceiveLogsDirect.runtimeconfig.json
+D:\GitLab\ReceiveLogsDirect\bin\Debug\netcoreapp2.1\ReceiveLogsDirect.runtimeconfig.dev.json
+D:\GitLab\ReceiveLogsDirect\bin\Debug\netcoreapp2.1\ReceiveLogsDirect.dll
+D:\GitLab\ReceiveLogsDirect\bin\Debug\netcoreapp2.1\ReceiveLogsDirect.pdb
+D:\GitLab\ReceiveLogsDirect\obj\Debug\netcoreapp2.1\ReceiveLogsDirect.csprojAssemblyReference.cache
+D:\GitLab\ReceiveLogsDirect\obj\Debug\netcoreapp2.1\ReceiveLogsDirect.csproj.CoreCompileInputs.cache
+D:\GitLab\ReceiveLogsDirect\obj\Debug\netcoreapp2.1\ReceiveLogsDirect.AssemblyInfoInputs.cache
+D:\GitLab\ReceiveLogsDirect\obj\Debug\netcoreapp2.1\ReceiveLogsDirect.AssemblyInfo.cs
+D:\GitLab\ReceiveLogsDirect\obj\Debug\netcoreapp2.1\ReceiveLogsDirect.dll
+D:\GitLab\ReceiveLogsDirect\obj\Debug\netcoreapp2.1\ReceiveLogsDirect.pdb

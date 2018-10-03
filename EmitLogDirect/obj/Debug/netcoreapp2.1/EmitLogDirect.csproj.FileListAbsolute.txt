@@ -1,0 +1,11 @@
+D:\GitLab\EmitLogDirect\bin\Debug\netcoreapp2.1\EmitLogDirect.deps.json
+D:\GitLab\EmitLogDirect\bin\Debug\netcoreapp2.1\EmitLogDirect.runtimeconfig.json
+D:\GitLab\EmitLogDirect\bin\Debug\netcoreapp2.1\EmitLogDirect.runtimeconfig.dev.json
+D:\GitLab\EmitLogDirect\bin\Debug\netcoreapp2.1\EmitLogDirect.dll
+D:\GitLab\EmitLogDirect\bin\Debug\netcoreapp2.1\EmitLogDirect.pdb
+D:\GitLab\EmitLogDirect\obj\Debug\netcoreapp2.1\EmitLogDirect.csprojAssemblyReference.cache
+D:\GitLab\EmitLogDirect\obj\Debug\netcoreapp2.1\EmitLogDirect.csproj.CoreCompileInputs.cache
+D:\GitLab\EmitLogDirect\obj\Debug\netcoreapp2.1\EmitLogDirect.AssemblyInfoInputs.cache
+D:\GitLab\EmitLogDirect\obj\Debug\netcoreapp2.1\EmitLogDirect.AssemblyInfo.cs
+D:\GitLab\EmitLogDirect\obj\Debug\netcoreapp2.1\EmitLogDirect.dll
+D:\GitLab\EmitLogDirect\obj\Debug\netcoreapp2.1\EmitLogDirect.pdb
