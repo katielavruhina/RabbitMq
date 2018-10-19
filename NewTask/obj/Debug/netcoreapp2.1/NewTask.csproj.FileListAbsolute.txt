@@ -1,0 +1,11 @@
+D:\GitLab\NewTask\bin\Debug\netcoreapp2.1\NewTask.deps.json
+D:\GitLab\NewTask\bin\Debug\netcoreapp2.1\NewTask.runtimeconfig.json
+D:\GitLab\NewTask\bin\Debug\netcoreapp2.1\NewTask.runtimeconfig.dev.json
+D:\GitLab\NewTask\bin\Debug\netcoreapp2.1\NewTask.dll
+D:\GitLab\NewTask\bin\Debug\netcoreapp2.1\NewTask.pdb
+D:\GitLab\NewTask\obj\Debug\netcoreapp2.1\NewTask.csprojAssemblyReference.cache
+D:\GitLab\NewTask\obj\Debug\netcoreapp2.1\NewTask.csproj.CoreCompileInputs.cache
+D:\GitLab\NewTask\obj\Debug\netcoreapp2.1\NewTask.AssemblyInfoInputs.cache
+D:\GitLab\NewTask\obj\Debug\netcoreapp2.1\NewTask.AssemblyInfo.cs
+D:\GitLab\NewTask\obj\Debug\netcoreapp2.1\NewTask.dll
+D:\GitLab\NewTask\obj\Debug\netcoreapp2.1\NewTask.pdb
